@@ -6,7 +6,7 @@
 
 Projecto construído na trilha Discover da RocketSeat
 
-[Clique aqui para acessar](https://belmiro-francisco.github.io/nlw-esports-explorer/)
+[Clique aqui para acessar](https://belmiro-francisco.github.io/projecto/)
 
 ## TECNOLOGIAS
 
